@@ -1,0 +1,10 @@
+2D Arrays:
+
+You create a 2D array using Vector2D().
+you can technically create 1d arrays but they are just there
+for the creation of the 2D Vector.
+The Vector2D has three-parameter _values as items _x _y for columns and rows.
+OBS make shore that _x * _y = _values if not the array cant be created.
+to access the array you use Array2D().array or you can use getItem(y, x)
+to get item x is the column and y is the row, note that it starts from 0.
+you can use printArray() to print the whole array.
